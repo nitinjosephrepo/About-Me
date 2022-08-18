@@ -4,6 +4,7 @@ There is plenty of information.
 The problem — the central issue — is that the needle
 comes in an increasingly larger haystack" ~ Nassim Taleb
 - 📫 Email: nitinjoseph at live.com
+- Digital Strategist at Fourth Dimension (4D) Inc, Toronto
 
 <!---
 nitinjosephrepo/nitinjosephrepo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
