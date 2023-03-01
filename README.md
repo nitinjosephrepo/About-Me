@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Nitin Joseph. A Digital Strategist with a naturally curious streak, I am a self-taught ML, NLP (Natural Language programming) & python developer focusing on Marketing, Ecommerce, Retail & Analytics. 
+I am Nitin Joseph. A Digital Strategist with a naturally curious streak, I am a self-taught ML, NLP (Natural Language programming) & python developer focusing on Marketing, Ecommerce, Retail & Analytics. I can be contacted at nitin@verrocchioworkshop.com
 
 I have degrees in Quantitative disciplines and Liberal arts. I embrace STEAM mindset :raised_hands:
 
@@ -26,11 +26,15 @@ In respecting privacy & client confidentiality, I have used public datasets.
 
 We use Random Forest Classifier to grade factors that have the most impact on churn rate and use the model to predict customers likely to churn. Checkout the [Project](https://github.com/nitinjosephrepo/Predicting-Customer-Churn-and-Factors-Responsible/blob/main/Predicting%20Customer%20Churn%20in%20a%20Telco%20Customer%20Dataset.ipynb)
 
-**2. Understand consumer preference with Conjoint analysis**
+**2. Facebook Prophet to forecast Demand & quantify the affect of seasonality, weekends and holidays**
+
+Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well. Checkout the [Project](https://github.com/nitinjosephrepo/Using-Prophet-to-Forecast-Bikeshare-Demand)
+
+**3. Understand consumer preference with Conjoint analysis**
 
 Which involves analyzing user preference survey data, applying methods to determine how users weigh each attribute and using data to predict and map out what consumers like and dislike about a product. Checkout the [Project](https://github.com/nitinjosephrepo/Conjoint-Analysis-to-uncover-consumer-preferences)
 
-**3. E-commerce Market Basket Analysis to make a product recommendation & calculate CLV** (*Customer Lifetime Value*)
+**4. E-commerce Market Basket Analysis to make a product recommendation & calculate CLV** (*Customer Lifetime Value*)
 
 + Utilize two popular algorithms to create product recommendations and perform market basket analysis. I use collaborative filtering and a priori algorithm and implement both to generate product recommendations using first-party sales data. Checkout the [Project](https://github.com/nitinjosephrepo/Items-Frequently-Bought-Together)
 
@@ -38,15 +42,15 @@ Which involves analyzing user preference survey data, applying methods to determ
 
 + Use unsupervised ML methods to segment customers into groups and find their key characteristics as it relates to business. This can then be used downstream in business and marketing process to better serve customers and improve outcomes for business and customers alike. Checkout the [Project](https://github.com/nitinjosephrepo/Data-Driven-Customer-Segementation/blob/main/E-Com%20Customer%20Segmentation%20via%20k-Means%20Clustering.ipynb)
 
-**4. Boost Campaign Conversion Rate with Decision Tree**
+**5. Boost Campaign Conversion Rate with Decision Tree**
 
 Leverage Decision tree to improve to identify a subset of users with a higher likelihood of conversion works with digital and non-digital datasets. Checkout the [Project](https://github.com/nitinjosephrepo/Improving-Conversion-Rate-With-Decision-Trees)
 
-**5. Marketing Modeling Mix with Facebook Robyn**
+**6. Marketing Modeling Mix with Facebook Robyn**
 
 This measurement model provides a big-picture view of all marketing efforts. This allows us to understand the incrementality of the entire cluster of marketing spend (Online, offline, brand, performance, email, town criers, whatever we spend money on). Oh, and we can then split by channel and get incremental Sales, CPS, google, TV, Meta, Print, and everything else. 
 
-**6. Measuring Incrementality with Geo Lift?**
+**7. Measuring Incrementality with Geo Lift?**
 
 Difficult problem to solve but thanks to Bayesian statistic this helps us get a grip on incrementality! Helps identify the results the company would NOT have received but for Marketing. Owned. Earned. Paid. Read why measuring incrementality is important [Think with Google](https://www.thinkwithgoogle.com/intl/en-ca/marketing-strategies/data-and-measurement/marketing-incrementality) Checkout the [Project](https://github.com/nitinjosephrepo/Measuring-Incrementality-With-GeoLift/blob/main/Solving%20Incrementally%20with%20GeoLift%20Experiments.ipynb)
 
