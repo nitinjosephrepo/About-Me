@@ -48,7 +48,7 @@ This measurement model provides a big-picture view of all marketing efforts. Thi
 
 **6. Measuring Incrementality with Geo Lift?**
 
-Get a grip on incrementality! Helps identify the results the company would NOT have received but for Marketing. Owned. Earned. Paid. Read why measuring incrementality is important [Think with Google](https://www.thinkwithgoogle.com/intl/en-ca/marketing-strategies/data-and-measurement/marketing-incrementality) Checkout the [Project](https://github.com/nitinjosephrepo/Measuring-Incrementality-With-GeoLift/blob/main/Solving%20Incrementally%20with%20GeoLift%20Experiments.ipynb)
+Difficult problem to solve but thanks to Bayesian statistic this helps us get a grip on incrementality! Helps identify the results the company would NOT have received but for Marketing. Owned. Earned. Paid. Read why measuring incrementality is important [Think with Google](https://www.thinkwithgoogle.com/intl/en-ca/marketing-strategies/data-and-measurement/marketing-incrementality) Checkout the [Project](https://github.com/nitinjosephrepo/Measuring-Incrementality-With-GeoLift/blob/main/Solving%20Incrementally%20with%20GeoLift%20Experiments.ipynb)
 
 
 
