@@ -32,7 +32,7 @@ Which involves analyzing user preference survey data, applying methods to determ
 
 **3. E-commerce Market Basket Analysis to make a product recommendation & calculate CLV** (*Customer Lifetime Value*)
 
-+ Utilize two popular algorithms to create product recommendations and perform market basket analysis. I use collaborative filtering and a priori algorithm and implement both to generate product recommendations using first-party sales data.
++ Utilize two popular algorithms to create product recommendations and perform market basket analysis. I use collaborative filtering and a priori algorithm and implement both to generate product recommendations using first-party sales data. Checkout the [Project](https://github.com/nitinjosephrepo/Items-Frequently-Bought-Together)
 
 + Perform RFM (Recency, Frequency & Monetary Value) analysis and calculate CLV using BG|NBD Model. Checkout the [Project](https://github.com/nitinjosephrepo/Estimating-Customer-Lifetime-Value-BG-NBD-Model/blob/main/Calculating-CLV-Using-BG%20NBD-model%20.ipynb)
 
